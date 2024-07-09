@@ -5,6 +5,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/raja2508200/leetcode/tree/master/0176-second-highest-salary) |
 | [0595-big-countries](https://github.com/raja2508200/leetcode/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/raja2508200/leetcode/tree/master/0596-classes-more-than-5-students) |
 ## Array
