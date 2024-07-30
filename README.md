@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/raja2508200/leetcode/tree/master/0088-merge-sorted-array) |
+| [0392-is-subsequence](https://github.com/raja2508200/leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/raja2508200/leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/raja2508200/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/raja2508200/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
@@ -48,4 +50,8 @@
 | ------- |
 | [1013-fibonacci-number](https://github.com/raja2508200/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/raja2508200/leetcode/tree/master/1236-n-th-tribonacci-number) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/raja2508200/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
