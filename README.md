@@ -53,5 +53,10 @@
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/raja2508200/leetcode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/raja2508200/leetcode/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/raja2508200/leetcode/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
