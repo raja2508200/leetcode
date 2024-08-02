@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/raja2508200/leetcode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/raja2508200/leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/raja2508200/leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -33,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/raja2508200/leetcode/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/raja2508200/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/raja2508200/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -58,5 +60,6 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/raja2508200/leetcode/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/raja2508200/leetcode/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
