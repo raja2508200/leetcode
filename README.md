@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/raja2508200/leetcode/tree/master/0088-merge-sorted-array) |
+| [0228-summary-ranges](https://github.com/raja2508200/leetcode/tree/master/0228-summary-ranges) |
 ## Two Pointers
 |  |
 | ------- |
